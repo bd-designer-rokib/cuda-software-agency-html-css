@@ -1,0 +1,108 @@
+@media screen and (max-width: 1024px) {
+    .footer-area .footer-social {
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .services-content .row .col {
+        width: 33.3333%;
+    }
+
+    .team-section .team-member .row .col {
+        width: 33.3333%;
+    }
+
+    .testimonial-area .feedback-content .row .col {
+        padding: 0 15px;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .footer-area .footer-social {
+        padding: 0;
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header-section .nav-menu nav {
+        display: none;
+    }
+
+    .header-section .nav-menu button {
+        display: inline-block;
+    }
+
+    .services-content .row .col {
+        width: 50%;
+    }
+
+    .team-section .team-member .row .col {
+        width: 50%;
+    }
+
+    .testimonial-area .feedback-content .row .col {
+        width: 100%;
+    }
+
+    .testimonial-area .feedback-content .row .col {
+        padding: 0 25px;
+    }
+
+    .contact-area .contact-form form .form-field {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer-area .footer-social a {
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .services-content .row .col {
+        width: 100%;
+    }
+
+    .team-section .team-member .row .col {
+        width: 100%;
+    }
+
+    .portfolio-section .filter-columns .row .col {
+        width: 100%;
+    }
+
+    .hero-content a,
+    .portfolio-section .load-more-btn a,
+    .contact-area .submit-btn button {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+
+    .portfolio-section .filter-nav button {
+        margin-bottom: 15px;
+    }
+
+    .testimonial-area .feedback-content .row .col {
+        padding: 0;
+    }
+
+    .footer-area .footer-social a {
+        width:29.3333%;
+    }
+}
+
+@media screen and (max-width: 319px) {
+
+    .footer-area .footer-social a {
+        width: 100%;
+    }
+}
